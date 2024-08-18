@@ -20,6 +20,9 @@ level 3: Full access. can view all the lists and register new admins, masters, s
 A default administrator with access level 3 has been defined, who can log in to the panel using the username `me` and password `123`.
 
 
+Any new administrator who signs up by themselves through the panel will have an access level of 1.
+
+
 ## Features
 
 - Register new Admins
