@@ -16,6 +16,10 @@ level 2: can view the list of masters,students,employees and courses. also can r
 
 level 3: Full access. can view all the lists and register new admins, masters, students, employees and courses.
 
+
+A default administrator with access level 3 has been defined, who can log in to the panel using the username `me` and password `123`.
+
+
 ## Features
 
 - Register new Admins
